@@ -2,7 +2,7 @@ const {request, response} = require('express');
 const bcryptjs = require('bcryptjs');
 
 const Usuario = require('../models/usuario');
-const usuario = require('../models/usuario');
+
 
 //Query Params Como verlos
 // const {hola,musica,apikey=129392} = req.query;

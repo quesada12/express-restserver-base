@@ -17,3 +17,4 @@
 - express-validator
 - mongoose
 - bcryptjs
+- JWT
