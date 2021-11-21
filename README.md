@@ -18,3 +18,4 @@
 - mongoose
 - bcryptjs
 - JWT
+- google-auth-library
