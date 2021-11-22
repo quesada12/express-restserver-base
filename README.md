@@ -19,3 +19,6 @@
 - bcryptjs
 - JWT
 - google-auth-library
+- cloudinary
+- express-fileupload
+- uuid
